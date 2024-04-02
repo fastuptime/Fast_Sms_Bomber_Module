@@ -1,0 +1,23 @@
+{
+  "name": "fastsmsboombertest",
+  "version": "1.0.0",
+  "description": "Fast SMS Bomber Test - Module 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+
+  ],
+  "author": "Can",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "faker": "^6.6.6",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
